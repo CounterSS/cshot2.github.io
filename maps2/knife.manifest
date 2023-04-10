@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4200875349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8aafa9b3f3b49bd956cc68e4d397a4fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3fa057af6e6eabe0772e40cce9cdfdbc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99a1de0c5c0a7c34e8d3fd84d548f941, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/weapons/v/Ursus Knife/anims/knife.prefab
+Dependencies: []
